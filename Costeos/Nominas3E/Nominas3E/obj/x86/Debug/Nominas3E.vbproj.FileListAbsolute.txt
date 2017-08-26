@@ -1,0 +1,245 @@
+C:\Users\Jessyka\AppData\Local\Temporary Projects\Nominas3E\bin\Debug\Nominas3E.exe
+C:\Users\Jessyka\AppData\Local\Temporary Projects\Nominas3E\bin\Debug\Nominas3E.pdb
+C:\Users\Jessyka\AppData\Local\Temporary Projects\Nominas3E\bin\Debug\Nominas3E.xml
+C:\Users\Jessyka\AppData\Local\Temporary Projects\Nominas3E\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jessyka\AppData\Local\Temporary Projects\Nominas3E\obj\x86\Debug\Nominas3E.Resources.resources
+C:\Users\Jessyka\AppData\Local\Temporary Projects\Nominas3E\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Jessyka\AppData\Local\Temporary Projects\Nominas3E\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Jessyka\AppData\Local\Temporary Projects\Nominas3E\obj\x86\Debug\Nominas3E.exe
+C:\Users\Jessyka\AppData\Local\Temporary Projects\Nominas3E\obj\x86\Debug\Nominas3E.xml
+C:\Users\Jessyka\AppData\Local\Temporary Projects\Nominas3E\obj\x86\Debug\Nominas3E.pdb
+C:\Users\Jessyka\AppData\Local\Temporary Projects\Nominas3E\obj\x86\Debug\Nominas3E.frmNomina.resources
+C:\Users\Jessyka\documents\visual studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe
+C:\Users\Jessyka\documents\visual studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.xml
+C:\Users\Jessyka\documents\visual studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.pdb
+C:\Users\Jessyka\documents\visual studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jessyka\documents\visual studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNomina.resources
+C:\Users\Jessyka\documents\visual studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.Resources.resources
+C:\Users\Jessyka\documents\visual studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Jessyka\documents\visual studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Jessyka\documents\visual studio 2010\Projects\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe
+C:\Users\Jessyka\documents\visual studio 2010\Projects\Nominas3E\Nominas3E\bin\Debug\Nominas3E.pdb
+C:\Users\Jessyka\documents\visual studio 2010\Projects\Nominas3E\Nominas3E\bin\Debug\Nominas3E.xml
+C:\Users\Jessyka\documents\visual studio 2010\Projects\Nominas3E\Nominas3E\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Jessyka\documents\visual studio 2010\Projects\Nominas3E\Nominas3E\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Jessyka\documents\visual studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.ResolveComReference.cache
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.ResolveComReference.cache
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.xml
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.pdb
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\bin\Debug\Nominas3E.pdb
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\bin\Debug\Nominas3E.xml
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\bin\Debug\office.dll
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\bin\Debug\office.xml
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNomina.resources
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.Resources.resources
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe.manifest
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\bin\Debug\Nominas3E.application
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.TrustInfo.xml
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe.manifest
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.application
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNominaCalculada.resources
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbprojResolveAssemblyReference.cache
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.GenerateResource.Cache
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmHaberesDetalles.resources
+F:\Users\Jessyka\Documents\Visual Studio 2010\Projects\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmEmpleadoNomina.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\bin\Debug\Nominas3E.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\bin\Debug\Nominas3E.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\bin\Debug\Nominas3E.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\bin\Debug\office.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\bin\Debug\office.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.ResolveComReference.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmEmpleadoNomina.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmHaberesDetalles.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNomina.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNominaCalculada.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.Resources.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.SplashScreen1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.TrustInfo.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2015\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.ResolveComReference.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\bin\Debug\Nominas3E.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\bin\Debug\Nominas3E.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\bin\Debug\Nominas3E.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\bin\Debug\office.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\bin\Debug\office.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmEmpleadoNomina.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmHaberesDetalles.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNomina.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNominaCalculada.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.Resources.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.SplashScreen1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.TrustInfo.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.ResolveComReference.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\bin\Debug\Nominas3E.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\bin\Debug\Nominas3E.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\bin\Debug\Nominas3E.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmEmpleadoNomina.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmHaberesDetalles.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNomina.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNominaCalculada.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.Resources.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.SplashScreen1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.TrustInfo.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - julio\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe.config
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe.config
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.ResolveComReference.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\bin\Debug\Nominas3E.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\bin\Debug\Nominas3E.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\bin\Debug\Nominas3E.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmEmpleadoNomina.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmHaberesDetalles.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNomina.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNominaCalculada.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.Resources.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.SplashScreen1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.TrustInfo.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe.config
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\bin\Debug\Nominas3E.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\bin\Debug\Nominas3E.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\bin\Debug\Nominas3E.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.ResolveComReference.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmEmpleadoNomina.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmHaberesDetalles.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNomina.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNominaCalculada.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.Resources.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.SplashScreen1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.TrustInfo.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - septiembre - copia\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe.config
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\bin\Debug\Nominas3E.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\bin\Debug\Nominas3E.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\bin\Debug\Nominas3E.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.ResolveComReference.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmEmpleadoNomina.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmHaberesDetalles.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNomina.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNominaCalculada.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.Resources.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.SplashScreen1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.TrustInfo.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.ResolveComReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - octubre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\bin\Debug\Nominas3E.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\bin\Debug\Nominas3E.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\bin\Debug\Nominas3E.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.ResolveComReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmEmpleadoNomina.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmHaberesDetalles.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNomina.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNominaCalculada.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.SplashScreen1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.TrustInfo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2016 - noviembre - pruebas\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.ResolveComReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\bin\Debug\Nominas3E.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\bin\Debug\Nominas3E.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\bin\Debug\Nominas3E.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmEmpleadoNomina.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmHaberesDetalles.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNomina.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNominaCalculada.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.SplashScreen1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.TrustInfo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\bin\Debug\Nominas3E.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\bin\Debug\Nominas3E.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\bin\Debug\Nominas3E.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\bin\Debug\Nominas3E.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.ResolveComReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmEmpleadoNomina.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmHaberesDetalles.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNomina.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.frmNominaCalculada.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.SplashScreen1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.TrustInfo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Nominas3E_2017 - febrero\Nominas3E\Nominas3E\obj\x86\Debug\Nominas3E.vbprojResolveAssemblyReference.cache
